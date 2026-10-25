@@ -1,17 +1,25 @@
 # Ikteder Akhand Udoy
 
-PhD researcher and software builder working across machine learning, computer vision, efficient AI systems, and dependable developer tools. I care about reproducible experiments, transparent limitations, and software that produces inspectable evidence rather than opaque claims.
+PhD researcher in Computing at **Boise State University**, working on ML systems, efficient AI, LLM inference, quantization, and computer vision. Expected graduation: **December 2027**. Previously Software Engineer I at Playense.
+
+**Seeking Summer 2027 internships** in machine learning engineering, applied AI research, ML systems, data science, and software engineering.
+
+[Portfolio & résumé](https://ikteder.github.io/) · [LinkedIn](https://www.linkedin.com/in/ikteder-akhand-udoy-680a4122a/) · [Google Scholar](https://scholar.google.com/citations?user=7CEKc9wAAAAJ) · [Email](mailto:ikteder.akhand@gmail.com)
+
+I build reproducible Python/PyTorch experiments, inference benchmarks, deployment checks, and tools that make evidence easy to inspect.
 
 ## Selected work
 
 | Project | Focus |
 | --- | --- |
 | [Po2QAT](https://github.com/Ikteder/Po2QAT-Power-of-Two-Quantization-Algorithm) | Reproducible power-of-two quantization-aware training across compact CNN, ViT, and language-model examples |
+| [SCALE-Sim for SPARQ](https://github.com/Ikteder/scale-sim-v3-sparq-k1) | Scheduling and memory-traffic simulation for constrained weighted subgraphs across five compact models; not measured silicon or end-to-end speedups |
+| [LLM Agent Workflows](https://github.com/Ikteder/llm-agent-workflows) | Grounded experiment-report retrieval, run comparison, tool routing, and cited summaries |
+| [Model Export & Benchmarking](https://github.com/Ikteder/model-export-verification-benchmarking-toolkit) | Model export, cross-runtime parity checks, inference benchmarks, and deployment reports |
+| [SchemaRoute](https://github.com/Ikteder/schemaroute) | Offline JSON Schema preflight against dated LLM provider profiles |
+| [StreamReceipt](https://github.com/Ikteder/streamreceipt) | Completion-evidence checks for captured LLM tool-call streams |
+| [AgentTrace Canary](https://github.com/Ikteder/agenttracecanary) | Offline structural regression checks for exported agent traces |
 | [RankQuake](https://github.com/Ikteder/rankquake) | Sensitivity and uncertainty analysis for weighted multi-criteria decisions |
-| [ReachGrid](https://github.com/Ikteder/reachgrid) | Native Android lab for measuring one-handed touch ergonomics on a specific device |
-| [ByteBraid](https://github.com/Ikteder/bytebraid) | Read-only C++20 duplicate and near-duplicate file analysis |
-| [RelayFault](https://github.com/Ikteder/relayfault) | Deterministic local HTTP fault injection for resilience testing |
-| [SeamScope](https://github.com/Ikteder/seamscope) | Local-first visual lab for inspecting content-aware image reduction |
 
 ## Research and engineering interests
 
